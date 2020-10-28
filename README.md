@@ -1,6 +1,6 @@
-# Tagger - Smarter Email
+# Reddit Ranker
 
-You can find the project at [RedditRanker]().
+You can find the project at [RedditRanker](https://post-here-frontend-n33nsapg6.now.sh/).
 
 ## Contributors
 [Samuel Hepner](https://github.com/samuelhepner)
@@ -35,11 +35,7 @@ The DS API takes in a JSON object of a reddit post, generates a list of subreddi
 
 ### Python Notebooks
 
-You'll find them in the repo.
-
-### How to connect to the data API
-
-Send a POST request to `some link` with the arguments {}
+[Python Notebook link](https://github.com/Build-Week-Post-Here/Reddit-Ranker/blob/master/BW2.ipynb)
 
 ## Contributing
 
